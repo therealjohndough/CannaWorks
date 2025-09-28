@@ -1,0 +1,87 @@
+[
+  {
+    "tag": "g",
+    "id": "Layer_1-2",
+    "parent": null
+  },
+  {
+    "tag": "g",
+    "id": "g-1",
+    "parent": "Layer_1-2"
+  },
+  {
+    "tag": "g",
+    "id": "g-2",
+    "parent": "g-1"
+  },
+  {
+    "tag": "g",
+    "id": "logo",
+    "parent": "g-2"
+  },
+  {
+    "tag": "path",
+    "id": "path-1",
+    "parent": "logo"
+  },
+  {
+    "tag": "path",
+    "id": "path-2",
+    "parent": "logo"
+  },
+  {
+    "tag": "g",
+    "id": "logo-2",
+    "parent": "g-2"
+  },
+  {
+    "tag": "g",
+    "id": "g-3",
+    "parent": "logo-2"
+  },
+  {
+    "tag": "polygon",
+    "id": "polygon-1",
+    "parent": "g-3"
+  },
+  {
+    "tag": "polygon",
+    "id": "polygon-2",
+    "parent": "g-3"
+  },
+  {
+    "tag": "polygon",
+    "id": "polygon-3",
+    "parent": "g-3"
+  },
+  {
+    "tag": "path",
+    "id": "path-3",
+    "parent": "g-3"
+  },
+  {
+    "tag": "path",
+    "id": "path-4",
+    "parent": "g-3"
+  },
+  {
+    "tag": "path",
+    "id": "path-5",
+    "parent": "g-3"
+  },
+  {
+    "tag": "path",
+    "id": "path-6",
+    "parent": "logo-2"
+  },
+  {
+    "tag": "polygon",
+    "id": "polygon-4",
+    "parent": "logo-2"
+  },
+  {
+    "tag": "path",
+    "id": "path-7",
+    "parent": "g-1"
+  }
+]
