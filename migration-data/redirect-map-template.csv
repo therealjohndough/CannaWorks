@@ -1,0 +1,90 @@
+old_url,new_url,action(keep/301/410),reason,priority(high/med/low)
+https://buffalocannabisnetwork.com/,https://buffalocannabisnetwork.com/,keep,Top page or content URL should be preserved,high
+https://buffalocannabisnetwork.com/events/,https://buffalocannabisnetwork.com/events/,keep,Top page or content URL should be preserved,high
+https://buffalocannabisnetwork.com/news/inside-snowbelt-cannabis-small-batch-solventless-women-veteran-owned/,https://buffalocannabisnetwork.com/news/inside-snowbelt-cannabis-small-batch-solventless-women-veteran-owned/,keep,Top page or content URL should be preserved,high
+https://buffalocannabisnetwork.com/membership/,https://buffalocannabisnetwork.com/membership/,keep,Top page or content URL should be preserved,high
+https://buffalocannabisnetwork.com/members/green-room-cannabis/,https://buffalocannabisnetwork.com/members/green-room-cannabis/,keep,Top page or content URL should be preserved,high
+https://buffalocannabisnetwork.com/about/,https://buffalocannabisnetwork.com/about/,keep,Top page or content URL should be preserved,high
+https://buffalocannabisnetwork.com/new-york-cannabis-market-overview-2024-early-2025/,https://buffalocannabisnetwork.com/new-york-cannabis-market-overview-2024-early-2025/,keep,Top page or content URL should be preserved,med
+https://buffalocannabisnetwork.com/ny-cannabis-cross-tier-branding-case-2025/,https://buffalocannabisnetwork.com/ny-cannabis-cross-tier-branding-case-2025/,keep,Top page or content URL should be preserved,med
+https://buffalocannabisnetwork.com/contact-buffalo-cannabis-network/,https://buffalocannabisnetwork.com/contact-buffalo-cannabis-network/,keep,Top page or content URL should be preserved,med
+https://buffalocannabisnetwork.com/members/,https://buffalocannabisnetwork.com/members/,keep,Top page or content URL should be preserved,med
+https://buffalocannabisnetwork.com/news/tag/new-york-cannabis-processors/,https://buffalocannabisnetwork.com/news/,301,Consolidate archive/taxonomy URLs to canonical topic or parent page,med
+https://buffalocannabisnetwork.com/news/new-york-cannabis-market-overview-2024-early-2025/,https://buffalocannabisnetwork.com/news/new-york-cannabis-market-overview-2024-early-2025/,keep,Top page or content URL should be preserved,med
+https://buffalocannabisnetwork.com/members/drs-testing/,https://buffalocannabisnetwork.com/members/drs-testing/,keep,Top page or content URL should be preserved,med
+https://buffalocannabisnetwork.com/members/amplified-buffalo-news/,https://buffalocannabisnetwork.com/members/amplified-buffalo-news/,keep,Top page or content URL should be preserved,med
+https://buffalocannabisnetwork.com/events/coffee-networking/,https://buffalocannabisnetwork.com/events/coffee-networking/,keep,Top page or content URL should be preserved,med
+https://buffalocannabisnetwork.com/members/cannabookkeeper-ny-cbkny/,https://buffalocannabisnetwork.com/members/cannabookkeeper-ny-cbkny/,keep,Top page or content URL should be preserved,med
+https://buffalocannabisnetwork.com/submit-a-tip/,https://buffalocannabisnetwork.com/submit-a-tip/,keep,Top page or content URL should be preserved,med
+https://buffalocannabisnetwork.com/events/buffalo-cannabis-network-happy-hour/,https://buffalocannabisnetwork.com/events/buffalo-cannabis-network-happy-hour/,keep,Top page or content URL should be preserved,med
+https://buffalocannabisnetwork.com/news/nikki-lawley-buffalo-cannabis-networks-community-director-turns-pain-into-purpose/,https://buffalocannabisnetwork.com/news/nikki-lawley-buffalo-cannabis-networks-community-director-turns-pain-into-purpose/,keep,Top page or content URL should be preserved,low
+https://buffalocannabisnetwork.com/news/,https://buffalocannabisnetwork.com/news/,keep,Top page or content URL should be preserved,low
+https://buffalocannabisnetwork.com/about-buffalo-cannabis-network/,https://buffalocannabisnetwork.com/about-buffalo-cannabis-network/,keep,Top page or content URL should be preserved,low
+https://buffalocannabisnetwork.com/blog/,https://buffalocannabisnetwork.com/blog/,keep,Top page or content URL should be preserved,low
+https://buffalocannabisnetwork.com/event-venue/sol-buffalo-pool-club/,https://buffalocannabisnetwork.com/event-venue/sol-buffalo-pool-club/,keep,Top page or content URL should be preserved,low
+https://buffalocannabisnetwork.com/contact/,https://buffalocannabisnetwork.com/contact/,keep,Top page or content URL should be preserved,low
+https://buffalocannabisnetwork.com/news/category/market-reports/,https://buffalocannabisnetwork.com/news/,301,Consolidate archive/taxonomy URLs to canonical topic or parent page,low
+https://buffalocannabisnetwork.com/members/americu-credit-union/,https://buffalocannabisnetwork.com/members/americu-credit-union/,keep,Top page or content URL should be preserved,low
+https://buffalocannabisnetwork.com/event/bcn-dispensary-showcase/,https://buffalocannabisnetwork.com/event/bcn-dispensary-showcase/,keep,Top page or content URL should be preserved,low
+https://buffalocannabisnetwork.com/news/ccb-meeting-highlights-what-actually-matters-for-ny-operators/,https://buffalocannabisnetwork.com/news/ccb-meeting-highlights-what-actually-matters-for-ny-operators/,keep,Top page or content URL should be preserved,low
+https://buffalocannabisnetwork.com/news/ny-cannabis-cross-tier-branding-case-2025/,https://buffalocannabisnetwork.com/news/ny-cannabis-cross-tier-branding-case-2025/,keep,Top page or content URL should be preserved,low
+https://buffalocannabisnetwork.com/members/house-of-sacci/,https://buffalocannabisnetwork.com/members/house-of-sacci/,keep,Top page or content URL should be preserved,low
+https://buffalocannabisnetwork.com/news/tag/ocm/,https://buffalocannabisnetwork.com/news/,301,Consolidate archive/taxonomy URLs to canonical topic or parent page,low
+https://buffalocannabisnetwork.com/members/weed-ross-insurance/,https://buffalocannabisnetwork.com/members/weed-ross-insurance/,keep,Top page or content URL should be preserved,low
+https://buffalocannabisnetwork.com/news/tag/cannabis-industry/,https://buffalocannabisnetwork.com/news/,301,Consolidate archive/taxonomy URLs to canonical topic or parent page,low
+https://buffalocannabisnetwork.com/terms/,https://buffalocannabisnetwork.com/terms/,keep,Top page or content URL should be preserved,low
+https://buffalocannabisnetwork.com/print/,https://buffalocannabisnetwork.com/print/,keep,Top page or content URL should be preserved,low
+https://buffalocannabisnetwork.com/members/staffbuffalo-hrbuffalo/,https://buffalocannabisnetwork.com/members/staffbuffalo-hrbuffalo/,keep,Top page or content URL should be preserved,low
+https://buffalocannabisnetwork.com/recaps/,https://buffalocannabisnetwork.com/recaps/,keep,Top page or content URL should be preserved,low
+https://buffalocannabisnetwork.com/members/skyworld/,https://buffalocannabisnetwork.com/members/skyworld/,keep,Top page or content URL should be preserved,low
+https://buffalocannabisnetwork.com/news/category/industry-news/,https://buffalocannabisnetwork.com/news/,301,Consolidate archive/taxonomy URLs to canonical topic or parent page,low
+https://buffalocannabisnetwork.com/news/tag/cannabis-data/,https://buffalocannabisnetwork.com/news/,301,Consolidate archive/taxonomy URLs to canonical topic or parent page,low
+https://buffalocannabisnetwork.com/members/pax/,https://buffalocannabisnetwork.com/members/pax/,keep,Top page or content URL should be preserved,low
+https://buffalocannabisnetwork.com/event-type/workshop/,https://buffalocannabisnetwork.com/event-type/workshop/,keep,Top page or content URL should be preserved,low
+https://buffalocannabisnetwork.com/members/case-study-labs/,https://buffalocannabisnetwork.com/members/case-study-labs/,keep,Top page or content URL should be preserved,low
+https://buffalocannabisnetwork.com/news/tag/new-york-state-cannabis-news/,https://buffalocannabisnetwork.com/news/,301,Consolidate archive/taxonomy URLs to canonical topic or parent page,low
+https://buffalocannabisnetwork.com/news/membership-tier/professional-member/,https://buffalocannabisnetwork.com/news/membership-tier/professional-member/,keep,Top page or content URL should be preserved,low
+https://buffalocannabisnetwork.com/events/coffee-and-networking-hosted-by-withum/,https://buffalocannabisnetwork.com/events/coffee-and-networking-hosted-by-withum/,keep,Top page or content URL should be preserved,low
+https://buffalocannabisnetwork.com/news/tag/cannabis-regulation/,https://buffalocannabisnetwork.com/news/,301,Consolidate archive/taxonomy URLs to canonical topic or parent page,low
+https://buffalocannabisnetwork.com/event-type/networking/,https://buffalocannabisnetwork.com/event-type/networking/,keep,Top page or content URL should be preserved,low
+https://buffalocannabisnetwork.com/members/snowbelt-cannabis/,https://buffalocannabisnetwork.com/members/snowbelt-cannabis/,keep,Top page or content URL should be preserved,low
+https://buffalocannabisnetwork.com/advertise/,https://buffalocannabisnetwork.com/advertise/,keep,Top page or content URL should be preserved,low
+https://buffalocannabisnetwork.com/members/withum/,https://buffalocannabisnetwork.com/members/withum/,keep,Top page or content URL should be preserved,low
+https://buffalocannabisnetwork.com/news/tag/buffalo-cannabis-network/,https://buffalocannabisnetwork.com/news/,301,Consolidate archive/taxonomy URLs to canonical topic or parent page,low
+https://buffalocannabisnetwork.com/member-submissions/,https://buffalocannabisnetwork.com/member-submissions/,keep,Top page or content URL should be preserved,low
+https://buffalocannabisnetwork.com/event-venue/,https://buffalocannabisnetwork.com/event-venue/,keep,Top page or content URL should be preserved,low
+https://buffalocannabisnetwork.com/members/ich-industries/,https://buffalocannabisnetwork.com/members/ich-industries/,keep,Top page or content URL should be preserved,low
+https://buffalocannabisnetwork.com/events/bcn-brand-showcase/,https://buffalocannabisnetwork.com/events/bcn-brand-showcase/,keep,Top page or content URL should be preserved,low
+https://buffalocannabisnetwork.com/events/summer-kick-off/,https://buffalocannabisnetwork.com/events/summer-kick-off/,keep,Top page or content URL should be preserved,low
+https://buffalocannabisnetwork.com/members/nautical-blaze/,https://buffalocannabisnetwork.com/members/nautical-blaze/,keep,Top page or content URL should be preserved,low
+https://buffalocannabisnetwork.com/news/5-reasons-cannabis-professionals-should-attend-bcns-holiday-party/,https://buffalocannabisnetwork.com/news/5-reasons-cannabis-professionals-should-attend-bcns-holiday-party/,keep,Top page or content URL should be preserved,low
+https://buffalocannabisnetwork.com/privacy/,https://buffalocannabisnetwork.com/privacy/,keep,Top page or content URL should be preserved,low
+https://buffalocannabisnetwork.com/news/category/regulatory-updates/,https://buffalocannabisnetwork.com/news/,301,Consolidate archive/taxonomy URLs to canonical topic or parent page,low
+https://buffalocannabisnetwork.com/news/category/products-brands/,https://buffalocannabisnetwork.com/news/,301,Consolidate archive/taxonomy URLs to canonical topic or parent page,low
+https://buffalocannabisnetwork.com/members/suny-niagara-horticulture-program/,https://buffalocannabisnetwork.com/members/suny-niagara-horticulture-program/,keep,Top page or content URL should be preserved,low
+https://buffalocannabisnetwork.com/news/tag/terpene-education/,https://buffalocannabisnetwork.com/news/,301,Consolidate archive/taxonomy URLs to canonical topic or parent page,low
+https://buffalocannabisnetwork.com/news/category/policy-legal/,https://buffalocannabisnetwork.com/news/,301,Consolidate archive/taxonomy URLs to canonical topic or parent page,low
+https://buffalocannabisnetwork.com/news/tag/cannabis-sales/,https://buffalocannabisnetwork.com/news/,301,Consolidate archive/taxonomy URLs to canonical topic or parent page,low
+https://buffalocannabisnetwork.com/buffalo-cannabis-network-dispensary-showcase-recap-photo-gallery/,https://buffalocannabisnetwork.com/buffalo-cannabis-network-dispensary-showcase-recap-photo-gallery/,keep,Top page or content URL should be preserved,low
+https://buffalocannabisnetwork.com/news/tag/small-batch-cannabis/,https://buffalocannabisnetwork.com/news/,301,Consolidate archive/taxonomy URLs to canonical topic or parent page,low
+https://buffalocannabisnetwork.com/news/tag/veteran-owned-cannabis-business/,https://buffalocannabisnetwork.com/news/,301,Consolidate archive/taxonomy URLs to canonical topic or parent page,low
+https://buffalocannabisnetwork.com/news/tag/snowbelt-cannabis/,https://buffalocannabisnetwork.com/news/,301,Consolidate archive/taxonomy URLs to canonical topic or parent page,low
+https://buffalocannabisnetwork.com/news/tag/cannabis-market/,https://buffalocannabisnetwork.com/news/,301,Consolidate archive/taxonomy URLs to canonical topic or parent page,low
+https://buffalocannabisnetwork.com/news/tag/new-york-cannabis-patient-support/,https://buffalocannabisnetwork.com/news/,301,Consolidate archive/taxonomy URLs to canonical topic or parent page,low
+https://buffalocannabisnetwork.com/events/bcn-dispensary-showcase/,https://buffalocannabisnetwork.com/events/bcn-dispensary-showcase/,keep,Top page or content URL should be preserved,low
+https://buffalocannabisnetwork.com/members/bootstrap-buffalo/,https://buffalocannabisnetwork.com/members/bootstrap-buffalo/,keep,Top page or content URL should be preserved,low
+https://buffalocannabisnetwork.com/events/summer-send-off/,https://buffalocannabisnetwork.com/events/summer-send-off/,keep,Top page or content URL should be preserved,low
+https://buffalocannabisnetwork.com/news/tag/cannabis-news/,https://buffalocannabisnetwork.com/news/,301,Consolidate archive/taxonomy URLs to canonical topic or parent page,low
+https://buffalocannabisnetwork.com/news/tag/jamestown-ny-cannabis/,https://buffalocannabisnetwork.com/news/,301,Consolidate archive/taxonomy URLs to canonical topic or parent page,low
+https://buffalocannabisnetwork.com/events/buffalo-cannabis-network/,https://buffalocannabisnetwork.com/events/buffalo-cannabis-network/,keep,Top page or content URL should be preserved,low
+https://buffalocannabisnetwork.com/news/tag/medical-cannabis-tbi/,https://buffalocannabisnetwork.com/news/,301,Consolidate archive/taxonomy URLs to canonical topic or parent page,low
+https://buffalocannabisnetwork.com/events/member-happy-hour/,https://buffalocannabisnetwork.com/events/member-happy-hour/,keep,Top page or content URL should be preserved,low
+https://buffalocannabisnetwork.com/news/tag/cannabis-advocate-buffalo-ny/,https://buffalocannabisnetwork.com/news/,301,Consolidate archive/taxonomy URLs to canonical topic or parent page,low
+https://buffalocannabisnetwork.com/news/tag/new-york-cannabis/,https://buffalocannabisnetwork.com/news/,301,Consolidate archive/taxonomy URLs to canonical topic or parent page,low
+https://buffalocannabisnetwork.com/news/tag/social-equity-cannabis/,https://buffalocannabisnetwork.com/news/,301,Consolidate archive/taxonomy URLs to canonical topic or parent page,low
+https://buffalocannabisnetwork.com/shop/,https://buffalocannabisnetwork.com/shop/,keep,Top page or content URL should be preserved,low
+https://buffalocannabisnetwork.com/news/tag/new-york-stat-ocm/,https://buffalocannabisnetwork.com/news/,301,Consolidate archive/taxonomy URLs to canonical topic or parent page,low
+https://buffalocannabisnetwork.com/news/tag/supply-chain/,https://buffalocannabisnetwork.com/news/,301,Consolidate archive/taxonomy URLs to canonical topic or parent page,low
+https://buffalocannabisnetwork.com/product/dj-booth-sponsor/,https://buffalocannabisnetwork.com/product/dj-booth-sponsor/,keep,Top page or content URL should be preserved,low
+https://buffalocannabisnetwork.com/events/croptober-celebration/,https://buffalocannabisnetwork.com/events/croptober-celebration/,keep,Top page or content URL should be preserved,low
+https://buffalocannabisnetwork.com/events/april-coffee-networking/,https://buffalocannabisnetwork.com/events/april-coffee-networking/,keep,Top page or content URL should be preserved,low
