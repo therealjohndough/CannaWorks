@@ -1,0 +1,4 @@
+robots_url: https://buffalocannabisnetwork.com/robots.txt
+sitemap_seeds: 1
+sitemaps_downloaded: 1
+urls_extracted: 37
