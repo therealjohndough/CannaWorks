@@ -97,6 +97,7 @@ npm run dev
 - `npm run build` - Build for production
 - `npm run start` - Start production server
 - `npm run lint` - Run ESLint for code quality
+- `npm run generate:locked-url-map` - Regenerate `migration-data/locked-url-map.csv` from `bcn-top-pages-3mo.csv`
 
 ## 🎨 Design System
 
@@ -139,13 +140,19 @@ npm run dev
 
 ## 🚀 Deployment
 
-The application is ready for deployment on modern platforms:
+### SiteGround (shared/cloud) static deployment
+This project is configured for **Next.js static export** so it can run without a Node.js server:
 
-### Recommended Platforms
-- **Vercel** (optimized for Next.js)
-- **Netlify** 
-- **Railway**
-- **Digital Ocean App Platform**
+1. Build the site: `npm run build`
+2. Upload the generated `/out` folder contents to `public_html`
+3. Ensure `.htaccess` is present (template: `public/.htaccess`)
+4. Apply additional redirects from `migration-data/locked-url-map.csv` as needed
+
+### Supporting migration assets
+- Route lock list from Search Console: `migration-data/locked-url-map.csv`
+  - Regenerate after CSV updates: `npm run generate:locked-url-map`
+- Static + PHP architecture plan: `migration-data/siteground-static-php-plan.md`
+- CMS seed content (JSON): `migration-data/content/cms-data.json`
 
 ### Environment Variables
 Create a `.env.local` file for environment-specific settings:
