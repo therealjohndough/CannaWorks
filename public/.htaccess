@@ -1,0 +1,15 @@
+# SiteGround deployment rules for static Next.js export
+RewriteEngine On
+
+# Keep trailing slash canonical URLs for SEO parity with legacy WordPress.
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_URI} !(.*)/$
+RewriteRule ^(.*)$ /$1/ [R=301,L]
+
+# Redirect legacy high-traffic URLs to their new equivalents when needed.
+Redirect 301 /contact-buffalo-cannabis-network/ /contact/
+Redirect 301 /about-buffalo-cannabis-network/ /about/
+Redirect 301 /blog/ /news/
+
+# Optional: uncomment and customize as migration decisions are finalized.
+# Redirect 301 /old-path/ /new-path/
